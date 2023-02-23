@@ -1,0 +1,9 @@
+Nombre: 
+Cedula: 
+Fecha: 
+Email: 
+Telefono: 
+Direccion: 
+Perfil: 
+Genero: 
+Nivel: 
