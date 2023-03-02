@@ -1,0 +1,6 @@
+Nombre de usuario
+Fecha
+Hora de ingreso
+Nombre de usuario: 
+Fecha: 
+Hora de ingreso: 
